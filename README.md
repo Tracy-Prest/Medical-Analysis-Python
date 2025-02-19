@@ -1,2 +1,2 @@
 # Medical-Analysis-Python
-This analysis is one of the task that I used in claiming my data analysis with python certificate. I ran the code on VS Code to ensure it did not give an error then went ahead to be proficient on the learning platform.
+This project transforms complex healthcare datasets into clear, actionable insights through visual representations. It displays critical information, such as patient demographics, treatment outcomes, and healthcare system performance, using a variety of visual tools like charts, graphs, and heatmaps. By providing these insights, the system supports healthcare professionals in making data-driven decisions, improving patient care, and enhancing operational efficiency.
